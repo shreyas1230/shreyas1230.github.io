@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://shreyas1230.github.io/sitemap.xml
