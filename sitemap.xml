@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/talk/example-talk/</loc>
+    <loc>https://shreyas1230.github.io/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/event/</loc>
+    <loc>https://shreyas1230.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://shreyas1230.github.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
@@ -23,7 +23,7 @@
   </url>
   
   <url>
-    <loc>/publication-type/1/</loc>
+    <loc>https://shreyas1230.github.io/publication-type/1/</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,27 +33,12 @@
   </url>
   
   <url>
-    <loc>/tag/computer-vision/</loc>
+    <loc>https://shreyas1230.github.io/tag/computer-vision/</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/deep-learning/</loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc></loc>
-    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/trajpred/</loc>
+    <loc>https://shreyas1230.github.io/tag/deep-learning/</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,17 +53,32 @@
   </url>
   
   <url>
+    <loc>https://shreyas1230.github.io/publication/trajpred/</loc>
+    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc></loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc></loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc></loc>
+    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shreyas1230.github.io/publication_types/</loc>
+    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shreyas1230.github.io/publication/</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,12 +88,12 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://shreyas1230.github.io/tags/</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/swarmrobot/</loc>
+    <loc>https://shreyas1230.github.io/project/swarmrobot/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -103,17 +103,17 @@
   </url>
   
   <url>
-    <loc>/tag/motion-planning/</loc>
+    <loc>https://shreyas1230.github.io/tag/motion-planning/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>https://shreyas1230.github.io/project/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/robotics/</loc>
+    <loc>https://shreyas1230.github.io/tag/robotics/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,32 +123,32 @@
   </url>
   
   <url>
-    <loc>/slides/</loc>
+    <loc>https://shreyas1230.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/example/</loc>
+    <loc>https://shreyas1230.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://shreyas1230.github.io/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/category/demo/</loc>
+    <loc>https://shreyas1230.github.io/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://shreyas1230.github.io/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/getting-started/</loc>
+    <loc>https://shreyas1230.github.io/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -158,7 +158,7 @@
   </url>
   
   <url>
-    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://shreyas1230.github.io/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   

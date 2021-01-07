@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shreyas Agarwal</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shreyas1230.github.io/</link>
+      <atom:link href="https://shreyas1230.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Shreyas Agarwal</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://shreyas1230.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Shreyas Agarwal</title>
-      <link>/</link>
+      <link>https://shreyas1230.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>/talk/example-talk/</link>
+      <link>https://shreyas1230.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/example-talk/</guid>
+      <guid>https://shreyas1230.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>It Is Not the Journey but the Destination: Endpoint Conditioned Trajectory Prediction</title>
-      <link>/publication/trajpred/</link>
+      <link>https://shreyas1230.github.io/publication/trajpred/</link>
       <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/trajpred/</guid>
+      <guid>https://shreyas1230.github.io/publication/trajpred/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -57,9 +57,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Decentralized Swarm Robotics: Discrete vs Continuous Shape Formation of Swarm Robotics</title>
-      <link>/project/swarmrobot/</link>
+      <link>https://shreyas1230.github.io/project/swarmrobot/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/project/swarmrobot/</guid>
+      <guid>https://shreyas1230.github.io/project/swarmrobot/</guid>
       <description>&lt;p&gt;Abstract:&lt;/p&gt;
 &lt;p&gt;The problem of shape formation in decentralized swarms has been tackled in many ways. However, most methods must make a choice between providing well-planned paths or low runtime results. In this paper, we evaluate an algorithm by Wang and Rubenstein that provides low runtime results by sampling from discrete space, and develop a continuous version of this algorithm. We analyze theoretical safety guarantees of this algorithm and compare its performance to the discrete version using metrics such as runtime, total distance traveled by the swarm, and efficiency. We also implement an asynchronous decentralized swarm simulator to run experiments and verify results.&lt;/p&gt;
 &lt;style&gt;
@@ -115,9 +115,9 @@ Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoq
     
     <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>https://shreyas1230.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
+      <guid>https://shreyas1230.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -244,9 +244,9 @@ Three
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>/post/getting-started/</link>
+      <link>https://shreyas1230.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/post/getting-started/</guid>
+      <guid>https://shreyas1230.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;

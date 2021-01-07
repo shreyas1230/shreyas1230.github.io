@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Motion Planning | Shreyas Agarwal</title>
-    <link>/tag/motion-planning/</link>
-      <atom:link href="/tag/motion-planning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shreyas1230.github.io/tag/motion-planning/</link>
+      <atom:link href="https://shreyas1230.github.io/tag/motion-planning/index.xml" rel="self" type="application/rss+xml" />
     <description>Motion Planning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://shreyas1230.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Motion Planning</title>
-      <link>/tag/motion-planning/</link>
+      <link>https://shreyas1230.github.io/tag/motion-planning/</link>
     </image>
     
     <item>
       <title>Decentralized Swarm Robotics: Discrete vs Continuous Shape Formation of Swarm Robotics</title>
-      <link>/project/swarmrobot/</link>
+      <link>https://shreyas1230.github.io/project/swarmrobot/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/project/swarmrobot/</guid>
+      <guid>https://shreyas1230.github.io/project/swarmrobot/</guid>
       <description>&lt;p&gt;Abstract:&lt;/p&gt;
 &lt;p&gt;The problem of shape formation in decentralized swarms has been tackled in many ways. However, most methods must make a choice between providing well-planned paths or low runtime results. In this paper, we evaluate an algorithm by Wang and Rubenstein that provides low runtime results by sampling from discrete space, and develop a continuous version of this algorithm. We analyze theoretical safety guarantees of this algorithm and compare its performance to the discrete version using metrics such as runtime, total distance traveled by the swarm, and efficiency. We also implement an asynchronous decentralized swarm simulator to run experiments and verify results.&lt;/p&gt;
 &lt;style&gt;
