@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computer Vision | Shreyas Agarwal</title>
-    <link>https://shreyas1230.github.io/tag/computer-vision/</link>
-      <atom:link href="https://shreyas1230.github.io/tag/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/computer-vision/</link>
+      <atom:link href="/tag/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     <description>Computer Vision</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://shreyas1230.github.io/images/icon_hud659a1296d8f4936358e0be03dc4e2eb_30600_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hud659a1296d8f4936358e0be03dc4e2eb_30600_512x512_fill_lanczos_center_2.png</url>
       <title>Computer Vision</title>
-      <link>https://shreyas1230.github.io/tag/computer-vision/</link>
+      <link>/tag/computer-vision/</link>
     </image>
     
     <item>
       <title>It Is Not the Journey but the Destination: Endpoint Conditioned Trajectory Prediction</title>
-      <link>https://shreyas1230.github.io/publication/trajpred/</link>
+      <link>/publication/trajpred/</link>
       <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://shreyas1230.github.io/publication/trajpred/</guid>
+      <guid>/publication/trajpred/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robotics | Shreyas Agarwal</title>
-    <link>https://shreyas1230.github.io/tag/robotics/</link>
-      <atom:link href="https://shreyas1230.github.io/tag/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/robotics/</link>
+      <atom:link href="/tag/robotics/index.xml" rel="self" type="application/rss+xml" />
     <description>Robotics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://shreyas1230.github.io/images/icon_hud659a1296d8f4936358e0be03dc4e2eb_30600_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hud659a1296d8f4936358e0be03dc4e2eb_30600_512x512_fill_lanczos_center_2.png</url>
       <title>Robotics</title>
-      <link>https://shreyas1230.github.io/tag/robotics/</link>
+      <link>/tag/robotics/</link>
     </image>
     
     <item>
       <title>Decentralized Swarm Robotics: Discrete vs Continuous Shape Formation of Swarm Robotics</title>
-      <link>https://shreyas1230.github.io/project/swarmrobot/</link>
+      <link>/project/swarmrobot/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://shreyas1230.github.io/project/swarmrobot/</guid>
+      <guid>/project/swarmrobot/</guid>
       <description>&lt;p&gt;Abstract:&lt;/p&gt;
 &lt;p&gt;The problem of shape formation in decentralized swarms has been tackled in many ways. However, most methods must make a choice between providing well-planned paths or low runtime results. In this paper, we evaluate an algorithm by Wang and Rubenstein that provides low runtime results by sampling from discrete space, and develop a continuous version of this algorithm. We analyze theoretical safety guarantees of this algorithm and compare its performance to the discrete version using metrics such as runtime, total distance traveled by the swarm, and efficiency. We also implement an asynchronous decentralized swarm simulator to run experiments and verify results.&lt;/p&gt;
 &lt;style&gt;
